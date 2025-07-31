@@ -41,7 +41,7 @@
 #### 🛠️ Herramientas y Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
 </p>
 
