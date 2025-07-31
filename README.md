@@ -31,6 +31,13 @@
   </a>
 </p>
 
+#### ☁️ Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,gcp" />
+  </a>
+</p>
+
 #### 🛠️ Herramientas y Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
@@ -44,4 +51,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/alejandro-ledesma-pascual" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mi LinkedIn" height="40" width="40" /></a>
+<a href="alexledesmapascual@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mi e-mail" height="40" width="40" /></a>
 </p>
