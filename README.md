@@ -10,17 +10,38 @@
 ---
 ### 🚀 Mi Stack Tecnológico
 
+#### 💻 Lenguajes de Programación
 <p align="left">
-  <a href="https://skillicons.dev"> Hola
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind" />
-  </a>
-  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
   </a>
-  <br/>
+</p>
+
+#### 🌐 Desarrollo Frontend
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind" />
+  </a>
+</p>
+
+#### ⚙️ Desarrollo Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
+  </a>
+</p>
+
+#### 🛢️ Bases de Datos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  </a>
+</p>
+
+#### 🛠️ Herramientas y Tecnologías
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,figma" />
   </a>
 </p>
 
