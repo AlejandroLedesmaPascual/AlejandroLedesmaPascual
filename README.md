@@ -11,11 +11,7 @@
 ### 🚀 Mi Stack Tecnológico
 
 #### 💻 Lenguajes de Programación
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
-  </a>
-</p>
+[(https://skillicons.dev/icons?i=js,ts,java,c++)](https://skillicons.dev)
 
 #### 🌐 Desarrollo Frontend
 <p align="left">
