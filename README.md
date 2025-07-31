@@ -13,21 +13,14 @@
 #### 💻 Lenguajes de Programación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,php,c++,python" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,php,cpp,python,kotlin" />
   </a>
 </p>
 
 #### 🌐 Desarrollo Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind" />
-  </a>
-</p>
-
-#### ⚙️ Desarrollo Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
   </a>
 </p>
 
@@ -41,8 +34,14 @@
 #### 🛠️ Herramientas y Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
 ---
+
+### 📫 Contacto
+
+<p align="center">
+<a href="https://linkedin.com/in/alejandro-ledesma-pascual" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mi LinkedIn" height="40" width="40" /></a>
+</p>
