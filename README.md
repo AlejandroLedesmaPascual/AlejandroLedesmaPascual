@@ -8,3 +8,20 @@
 - 📫 Cómo contactarme: alexledesmapascual@gmail.com
 
 ---
+### 🚀 Mi Stack Tecnológico
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,go" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,figma,postman" />
+  </a>
+</p>
+
+---
