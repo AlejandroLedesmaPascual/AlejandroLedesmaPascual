@@ -11,7 +11,7 @@
 ### 🚀 Mi Stack Tecnológico
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"> Hola
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind" />
   </a>
   <br/>
