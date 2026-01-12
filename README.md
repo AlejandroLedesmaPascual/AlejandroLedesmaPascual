@@ -1,12 +1,10 @@
 <h1 align="center">Hola, soy Alejandro Ledesma Pascual 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática con especialización en Sistemas de Información</h3>
+<h3 align="center">Soy Data Engineer en T-Systems Iberia</h3>
 
 ---
 ### 👨‍💻 Sobre Mí 
-- 🔭 Actualmente estoy trabajando en una aplicación móvil relacionada con el mundo fitness.
-- 🌱 Para la aplicación mencionada, estoy aprendiendo a usar el framework React Native
+- 🔭 Actualmente estoy sacandome la certificación de dbt
 - 📫 Cómo contactarme: alexledesmapascual@gmail.com
--  Actualmente estoy cursando dos cursos sobre Data Engineering. Uno impartido por la Fundación AI Granada y T-Systems con colaboración de la Universidad de Granada y otro impartido por la empresa Granadina Cívica.
 
 ---
 ### 🚀 Mi Stack Tecnológico
